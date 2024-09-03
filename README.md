@@ -3,7 +3,7 @@
 Submitted in partial fulfillment for the award of the degree of Bachelor Of Technology in Computer Science and Engineering  
 Specialization in Artificial Intelligence and Machine Learning. 
 
-**SAI PRANAV KOTHAPALLI**
+**SRI HARI PRIYA PANCHUMARTHI**
 
 School of Computer Science and Engineering  
 VIT-AP University  
